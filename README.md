@@ -7,6 +7,7 @@
 # Credits
   - [Microsoft Authentication Scheme](https://wiki.vg/Microsoft_Authentication_Scheme)
   - [MSMC / Hanro50](https://github.com/Hanro50) For allowing me to use his code to understand parts of the authentication
+  - [frosty](https://github.com/egirlfrosty) For bullying me into using JsonObjects instead of class specific objects
   
 This is a pretty simple snippet which allows you to connect to your Minecraft account through Microsoft's login window
 (yes the code is kinda messy and I don't know if i have the will power to change it right now)
